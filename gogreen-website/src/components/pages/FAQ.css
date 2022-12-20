@@ -1,0 +1,42 @@
+.HomeRedirect {
+    font-size: xx-large;
+    position: absolute;
+    text-align: center;
+    top: 30%;
+    left: 0%;
+    border-style: solid;
+    border-width: 2px;
+    height: 2400px;
+    width: 100%;
+    background: rgb(69, 113, 0);
+    background: linear-gradient(0deg, rgb(1, 121, 19) 0%, rgb(18, 136, 69) 100%);
+  }
+  
+  .toggleshowbutton{
+    color: whitesmoke;
+    background-color: rgb(249, 75, 0);
+    font-size: 30px;
+  border-radius: 6px;
+  width: 100%;}
+  
+  .toggleshowbutton:hover{
+    color: rgb(255, 255, 255);
+  background-color: rgb(40, 2, 2);
+  border-radius: 4px;
+  }
+  
+  .locationbutton{
+    margin: 0;
+      color: rgb(255, 255, 255);
+  background-color: rgb(67, 27, 2);
+    font-family: inherit;
+    padding: 14px 14px;
+    width: 100%;
+    font-size: 18px;
+  }
+
+ .homeFlavour{
+     color: aliceblue;
+
+    }
+  

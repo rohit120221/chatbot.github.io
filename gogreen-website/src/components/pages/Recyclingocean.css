@@ -1,0 +1,120 @@
+.RecycleOceanSplash {
+  font-size: xx-large;
+  position: absolute;
+  text-align: center;
+  top: 30%;
+  left: 0%;
+  border-style: solid;
+  border-width: 2px;
+  height: 1200px;
+  width: 100%;
+  background: rgb(9, 58, 163);
+  background: linear-gradient(0deg, rgb(24, 22, 153) 0%, rgb(7, 21, 68) 100%);
+}
+.RecyclingOceanTitle {
+  text-align: center;
+  font-size: 70;
+  color: rgb(44, 44, 243);
+  border-style: none;
+  position: relative;
+  top: 0%;
+  padding-left: 110px;
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+
+.GreenhandLogo {
+  position: absolute;
+  left: 1%;
+}
+
+.oceanplastic {
+  position: absolute;
+  left: 20%;
+}
+
+.fish {
+  position: absolute;
+  right: 1%;
+}
+
+.whale {
+  position: absolute;
+  left: 60%;
+  top: 25%;
+}
+
+.turtle {
+  position: absolute;
+  left: 40%;
+  top: 87%;
+}
+
+.diver {
+  position: absolute;
+  left: 8%;
+  top: 54%;
+  bottom: 37%;
+}
+
+.pollution {
+  font-size: medium;
+  color: rgb(84, 133, 240);
+  padding-right: 50%;
+  position: relative;
+  margin-left: 15%;
+  bottom: 13%;
+}
+
+.bottle {
+  position: absolute;
+  left: 5.3%;
+}
+
+.text1 {
+  font-size: large;
+  color: rgb(106, 189, 189);
+  background-color: rgb(24, 85, 102);
+  border-radius: 30px;
+  position: relative;
+  top: 0%;
+  padding-left: 0px;
+  padding-right: 70px;
+  padding-top: 26px;
+  padding-bottom: 25px;
+  margin-left: 10%;
+  margin-right: 50%;
+}
+
+.whyrecycletext {
+  font-size: large;
+  color: rgb(144, 231, 231);
+  border-style: double;
+  border-radius: 50px;
+  background-color: rgb(87, 167, 216);
+  position: relative;
+  top: 0%;
+  padding-left: 0px;
+  padding-right: 70px;
+  padding-top: 26px;
+  padding-bottom: 25px;
+  margin-left: 50%;
+  margin-right: 10%;
+}
+
+.text3 {
+  font-size: medium;
+  color: rgb(67, 120, 235);
+  background-color: rgb(15, 33, 87);
+  border-radius: 20px;
+  position: relative;
+  right: 5%;
+  padding-left: 0px;
+  padding-right: 35px;
+  padding-top: 26px;
+  padding-bottom: 0px;
+  margin-left: 20%;
+  margin-right: 10%;
+  margin-top: -8%;
+  margin-bottom: 0%;
+}

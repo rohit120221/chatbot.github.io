@@ -1,0 +1,35 @@
+.GlobalR {
+  font-size: xx-large;
+  position: absolute;
+  text-align: center;
+  top:30%;
+  left: 0%;
+  border-style: solid;
+  border-width: 2px;
+  height: 1200px;
+  width: 100%;
+  background: rgb(69, 113, 0);
+  background: linear-gradient(
+    0deg,
+    rgb(12, 27, 10) 0%,
+    rgb(18, 136, 69) 100%
+  );
+}
+
+.Title{
+  font-size: 70;
+  border-style: none;
+  position: relative;
+  top: 0%;
+  margin-left: 35%;
+  margin-right: 1%;
+  padding-left: 20px;
+  padding-right: 40px;
+  padding-top: 120px;
+  padding-bottom: 25px;
+}
+
+.Recycleimage {
+  position: absolute;
+  left: 68%;
+}

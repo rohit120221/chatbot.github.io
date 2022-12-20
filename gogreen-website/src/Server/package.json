@@ -1,0 +1,25 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start":"node server/index.js",
+     "build": "cd client && npm install && npm run build"
+  },
+  "engines": {
+    "node": "16.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunelCS/cs2001-2021_22-group13-2021.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunelCS/cs2001-2021_22-group13-2021/issues"
+  },
+  "homepage": "https://github.com/BrunelCS/cs2001-2021_22-group13-2021#readme"
+}

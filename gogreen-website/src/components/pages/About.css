@@ -1,0 +1,63 @@
+.Splash {
+  font-size: xx-large;
+  position: absolute;
+  text-align: center;
+  top:30%;
+  left: 0%;
+  border-style: solid;
+  border-width: 2px;
+  height: 1200px;
+  width: 100%;
+  background: rgb(69, 113, 0);
+  background: linear-gradient(
+    0deg,
+    rgb(12, 27, 10) 0%,
+    rgb(18, 136, 69) 100%
+  );
+}
+.aboutustitle {
+  text-align: left;
+  font-size: 45px;
+  color: rgb(255, 255, 255);
+  position: relative;
+  top: 0%;
+  padding-left: 110px;
+  padding-top:5%;
+}
+
+.aboutustext {
+  font-size: large;
+  font-family: verdana;
+  color: rgb(200, 233, 197);
+  position: relative;
+  margin-right: 60%;
+  padding-top: 5%;
+  padding-bottom: 4%;
+  left: 7%;
+}
+.thankyou {
+  font-size: larger;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  margin-right: 60%;
+  padding-bottom: 10%;
+  left: 17%;
+}
+
+.people {
+  position: absolute;
+  left: 52%;
+  top: 8%;
+  bottom: 10%;
+}
+
+.circle {
+  position: absolute;
+  height: 550px;
+  width: 550px;
+  background-color: rgb(10, 82, 42);
+  background: linear-gradient(to bottom, #084208 10%, #003300 50%);
+  border-radius: 50%;
+  left: 52%;
+  top: 5%;
+}

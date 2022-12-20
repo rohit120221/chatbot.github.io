@@ -1,0 +1,17 @@
+.footer {
+  position:absolute;
+  left:0;
+  bottom:0;
+  right:0;
+}
+
+.socialMedia svg {
+  color: white;
+  margin: 20px;
+  font-size: 70px;
+  cursor: pointer;
+}
+
+.footer p {
+  color: white;
+}

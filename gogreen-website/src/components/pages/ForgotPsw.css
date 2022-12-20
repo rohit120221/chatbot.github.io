@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  input[type="text"],
+  input[type="password"] {
+    width:30%;
+    padding: 10px 20px;
+    margin: 50px 20px;
+    display: inline-block;
+    border: 2px solid rgb(17, 119, 56);
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    background-color: #0e3326;
+    color: rgb(109, 161, 14);
+    padding: 5px 10px;
+    margin: 1px 30px;
+    border: center;
+    cursor: pointer;
+    width: 25%;
+    border-radius: 4px;
+  }
+  
+  button:hover {
+    opacity: 0.4;
+    color: whitesmoke;
+    background-color: green;
+    border-radius: 4px;
+  
+  }
+  
+  
+  
+  .imgcontainer {
+    text-align: center;
+    margin: 24px 0 15px 0;
+  }
+  
+  img.avatar {
+    width: 40%;
+    border-radius: 50%;
+  }
+  
+  .container {
+    padding: 1px;
+  }
+  
+  span.psw {
+    float: center;
+    padding-top: 12px;
+  }
+  
+  
+  .forgotPass {
+    font: bolder;
+    font-size: large;
+    margin-top: 11%;
+    position: absolute;
+    text-align: center;
+    top: 0%;
+    left: 0%;
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.2);
+    height: 840px;
+    width:100%;
+    background: rgb(9, 128, 9);
+  }
+  
+  
+  @media screen and (max-width: 300px) {
+    span.psw {
+      display: block;
+      float: none;
+    }  .cancelbtn {
+      width: 100%;
+    }
+  }
+i {
+    font-size: 16px;
+    opacity: 60%;
+}
+
+h2{
+    font-size: larger;
+}

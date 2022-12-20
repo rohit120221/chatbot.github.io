@@ -1,0 +1,87 @@
+{"properties": [
+  {
+    "name": "gogreen.app.jwtCookieName",
+    "type": "java.lang.String",
+    "description": "A description for 'gogreen.app.jwtCookieName'"
+  },
+  {
+    "name": "gogreen.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'gogreen.app.jwtSecret'"
+  },
+  {
+    "name": "gogreen.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'gogreen.app.jwtExpirationMs'"
+  },
+  {
+    "name": "gogreen.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'gogreen.app.jwtExpirationMs'"
+  },
+  {
+    "name": "gogreen.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'gogreen.app.jwtExpirationMs'"
+  },
+  {
+    "name": "gogreen.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'gogreen.app.jwtExpirationMs'"
+  },
+  {
+    "name": "gogreen.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'gogreen.app.jwtExpirationMs'"
+  },
+  {
+    "name": "gogreen.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'gogreen.app.jwtExpirationMs'"
+  },
+  {
+    "name": "gogreen.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'gogreen.app.jwtSecret'"
+  },
+  {
+    "name": "gogreen.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'gogreen.app.jwtSecret'"
+  },
+  {
+    "name": "gogreen.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'gogreen.app.jwtSecret'"
+  },
+  {
+    "name": "gogreen.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'gogreen.app.jwtSecret'"
+  },
+  {
+    "name": "gogreen.application.jwtCookieName",
+    "type": "java.lang.String",
+    "description": "A description for 'gogreen.application.jwtCookieName'"
+  },
+  {
+    "name": "gogreen.application.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'gogreen.application.jwtExpirationMs'"
+  },
+  {
+    "name": "gogreen.application.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'gogreen.application.jwtSecret'"
+  },
+  {
+    "name": "jdbc",
+    "type": "java.lang.String",
+    "description": "A description for 'jdbc'"
+  },
+  {
+    "name": "allowPublicKeyRetrieval",
+    "type": "java.lang.String",
+    "description": "A description for 'allowPublicKeyRetrieval'"
+  }
+]}
