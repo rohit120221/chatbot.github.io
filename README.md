@@ -1,64 +1,70 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6108078&assignment_repo_type=AssignmentRepo)
+# Getting Started with Create React App
 
-# CS2001: Group Project 2021/22
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This is a template of the README markdown (extension .md) file. For tips on how to edit the markdown click [here](https://guides.github.com/features/mastering-markdown/)!
+## Available Scripts
 
-Use this template to inform your clients about:
+In the project directory, you can run:
 
-1. What is this web application?
-2. What are its capabilities i.e. features?
-3. How to install the code (including any dependencies)?
-4. How to run the web application?
+### `npm start`
 
----
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## Group number : 13
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
----
+### `npm test`
 
-### Group Members
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-| Name                                      | Student ID | Feature Contribution          |
-| ----------------------------------------- | ---------- | ------------------------------|
-| ADAM PETER GULLIFORD                      | 2020792    | Nav bar, homepage, styling    |
-| YUSUF HAMID AHMADI                        | 2018097    | Recycling centres map         |
-| JEFFERSON OSASERE EDEMAHOTA E IGBINEWUARE | 2010624    |                               |
-| ABUBAKAR ABDI GUDAL                       | 1915839    | Login, Backend-connection (heroku), Signup Page |
-| JOANRO GOMES                              | 2034514    | Global Recycling page                              |
-| ABDIKARIM ALI YUSEF AHMED                 | 2010216    |Developed impelmented Backend, Database , Frontend about us and contact us|
-| ROHIT SINGHANIA                           | 2031052    |Logo creation, WhyRecycle page, Website Redesign (layout, navbar etc), getStarted page, FAQ page|
-| HAMSA KALIB                               | 1926639    |Recycling/Ocean page, About us page|
+### `npm run build`
 
----
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## Project Idea: Web app which encourages recycling
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-### UN Sustainable development goal number: 12
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### Motivation: To increase the level of recycling done by the average person, thereby reducing the amount of global waste produced each year
+### `npm run eject`
 
-### Features: Database containing information on what each thing you recycle can be turned into, recycling tracker
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
----
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-## Technologies
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-1. Back-end:
-2. Front-end:
-3. Database:
-4. Testing:
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
----
+## Learn More
 
-\***\*Sections below to be completed by the end\*\***
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-### Dependencies
+To learn React, check out the [React documentation](https://reactjs.org/).
 
----
+### Code Splitting
 
-### Installation instructions
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
----
+### Analyzing the Bundle Size
 
-### Usage instructions
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
